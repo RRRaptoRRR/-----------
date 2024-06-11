@@ -1,0 +1,33 @@
+.services{
+    margin-top: 10%;
+    font-family: 'Inter', sans-serif, system-ui;
+    width: 100%;
+}
+.services >h1{
+    text-align: center;
+}
+.service{
+    display: inline-block;
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 70%;
+}
+.photo{
+    padding-left: 10%;
+    float: left;
+    border: 100px;
+    padding-right: 100px ;
+    height: 200px;
+    width: 200px;
+}
+.photo>img{
+    height: 200px;
+    width: 200px;
+}
+.serviceDescription>h3{
+    font-size: x-large;
+    text-align: center;
+}
+.serviceDescription>p{
+    font-size: large;
+}
