@@ -8,12 +8,14 @@
 }
 .service{
     display: inline-block;
-    margin-left: 7%;
-    margin-top: 5%;
+    margin-left:15%;
+    margin-top: 2%;
     width: 70%;
+    background-color: darkblue;
+    color: white;
 }
 .photo{
-    padding-left: 10%;
+    padding-left: 0%;
     float: left;
     border: 100px;
     padding-right: 100px ;

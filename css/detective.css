@@ -1,8 +1,16 @@
 .detective{
     display: inline-block;
-    margin-top: 10%;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-image: url('../resources/test/detectiveBackGround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: white;
+    height: 500px;
 }
 #detective_photo{
+    padding-top: 5%;
     float: left;
 }
 #detective_photo > img{

@@ -1,0 +1,46 @@
+.mainHead{
+    background-image: url('../resources/test/sobor1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 0;
+    color: white;
+}
+.mainNavigation{
+    display: inline;
+    margin-top: 5%;
+    font-family: 'Inter', sans-serif, system-ui;
+    position: sticky;
+}
+.mainNavigation > div{
+    display: inline-block;
+}
+#name{
+    margin-left: 5%;
+    font-size: large;
+}
+#navigation{
+    font-size: large;
+    margin-left: 500px;
+}
+#navigation > li{
+    display: inline;
+    text-align: center;
+    margin-left: 10px;
+    border: 10px;
+
+}
+
+.shortDescription{
+    font-family: 'Inter', sans-serif, system-ui;
+    margin-left: 5%;
+    height: 200px;
+    width: 400px;
+}
+.shortDescription >h1{
+    font-size: xx-large;
+}
+.shortDescription >h3{
+    font-size: x-large;
+}
