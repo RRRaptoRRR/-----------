@@ -1,10 +1,13 @@
 .services{
-    margin-top: 10%;
-    font-family: 'Inter', sans-serif, system-ui;
+    margin-top: 0;
     width: 100%;
+    background-image: url('../resources/test/justBG.jpg');
+    background-size: cover;
 }
 .services >h1{
+    margin-top: 0;
     text-align: center;
+    color: #000;
 }
 .service{
     display: inline-block;

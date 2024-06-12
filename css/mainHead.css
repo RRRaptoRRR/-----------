@@ -10,7 +10,6 @@
 .mainNavigation{
     display: inline;
     margin-top: 5%;
-    font-family: 'Inter', sans-serif, system-ui;
     position: sticky;
 }
 .mainNavigation > div{
@@ -33,7 +32,6 @@
 }
 
 .shortDescription{
-    font-family: 'Inter', sans-serif, system-ui;
     margin-left: 5%;
     height: 200px;
     width: 400px;
