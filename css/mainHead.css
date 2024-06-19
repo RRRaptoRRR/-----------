@@ -28,7 +28,10 @@
     text-align: center;
     margin-left: 10px;
     border: 10px;
-
+}
+#navigation > li>a{
+    color: white;
+    text-decoration: none;
 }
 
 .shortDescription{
